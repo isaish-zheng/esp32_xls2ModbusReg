@@ -1,0 +1,19 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.jtagFlashCommandExtraArgs": [
+        "no_clock_boost"
+    ],
+    "idf.portWin": "COM5",
+    "idf.flashType": "UART",
+    "idf.flashBaudRate": "921600",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.pythonInstallPath": "d:\\Espressif5\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.espIdfPathWin": "d:\\Espressif5\\frameworks\\esp-idf-v5.5.3",
+    "idf.toolsPathWin": "d:\\Espressif5",
+}

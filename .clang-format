@@ -1,0 +1,21 @@
+# 基础样式（可根据需求选择，如LLVM、Google、Mozilla等）
+BasedOnStyle: Google
+
+# 缩进宽度为4格
+IndentWidth: 4
+# Tab宽度与缩进宽度一致
+TabWidth: 4
+# 使用空格代替Tab
+# UseTab: Never
+
+# 大括号不换行（关键配置）
+# 控制函数、循环、条件等语句的大括号位置
+BreakBeforeBraces: Attach
+
+# 其他可选补充配置（根据需要添加）
+# 命名风格（如驼峰式，可选）
+# CamelCase: true
+# 语句结尾是否加分号
+# AlwaysBreakAfterReturnType: None
+# 函数参数换行设置
+# AllowAllParametersOfDeclarationOnNextLine: false

@@ -1,0 +1,5 @@
+/build/
+.idea/
+
+/dependencies.lock
+/sdkconfig.old

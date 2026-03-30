@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModbusPoll>
+   <FileSchema r="0" c="0"/>
+   <Version major="12" minor="1" patch="1" build="2487"/>
+   <dpi>144</dpi>
+   <WP left="17" right="722" top="6" bottom="1574" ShowCmd="1" MaxPosX="-1" MaxPosY="-1" MinPosX="-1" MinPosY="-1"/>
+   <ScanRate>0</ScanRate>
+   <SlaveID>0</SlaveID>
+   <Enable>1</Enable>
+   <StopOnError>0</StopOnError>
+   <OneBased>0</OneBased>
+   <RowsDialog>4</RowsDialog>
+   <HideNames>0</HideNames>
+   <HexMode>0</HexMode>
+   <DisplayAddr>1</DisplayAddr>
+   <ColCount>2</ColCount>
+   <RowCount>41</RowCount>
+   <ColumnWidth>
+      <CW>1220</CW>
+      <CW>2193</CW>
+   </ColumnWidth>
+   <RowHight>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+      <RH>207</RH>
+   </RowHight>
+   <ScrollPosV>0</ScrollPosV>
+   <ScrollPosH>0</ScrollPosH>
+   <FocusRow>27</FocusRow>
+   <FocusCol>2</FocusCol>
+   <LogText>
+      <Eachread>0</Eachread>
+      <Rate>1</Rate>
+      <LogChangedOnly>0</LogChangedOnly>
+      <LogErrors>0</LogErrors>
+      <LogErrorsOnly>0</LogErrorsOnly>
+      <LogAddress>1</LogAddress>
+      <LogDate>0</LogDate>
+      <TDelimiter>0</TDelimiter>
+      <LogMs>1</LogMs>
+      <Delimiter>0</Delimiter>
+      <AutoStart>0</AutoStart>
+      <Flush>0</Flush>
+      <Append>0</Append>
+      <NewLogFileAtMidnight>0</NewLogFileAtMidnight>
+      <InsertHeader>0</InsertHeader>
+      <NameCellsInTopRow>0</NameCellsInTopRow>
+      <PollDefinition>0</PollDefinition>
+      <LogName>Type log name here</LogName>
+      <FileName></FileName>
+   </LogText>
+   <LogExcel>
+      <Eachread>1</Eachread>
+      <Rate>1</Rate>
+      <StopAfter>1000</StopAfter>
+      <LogChangedOnly>0</LogChangedOnly>
+      <InsertHeader>1</InsertHeader>
+      <NameCellsInTopRow>1</NameCellsInTopRow>
+      <PollDefinition>1</PollDefinition>
+      <LogName>Type log name here</LogName>
+   </LogExcel>
+   <Data>
+      <Function>3</Function>
+      <Address>0</Address>
+      <Quantity>41</Quantity>
+      <EnronMode>0</EnronMode>
+      <Formats>
+         <F f="3" v="0000 0000 0000 0000"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="3" v="0000 0000 0000 0000"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="1" v="0"/>
+         <F f="8" v="12345678"/>
+         <F f="16" v="--"/>
+         <F f="18" v="66"/>
+         <F f="16" v="--"/>
+         <F f="29" v="(/.) 0x2F2E"/>
+         <F f="29" v="(am) 0x616D"/>
+         <F f="29" v="(ni) 0x6E69"/>
+         <F f="29" v="(m/) 0x6D2F"/>
+         <F f="29" v="(ia) 0x6961"/>
+         <F f="29" v="(.n) 0x2E6E"/>
+         <F f="29" v="(pc) 0x7063"/>
+         <F f="29" v="(?p) 0x0070"/>
+         <F f="29" v="(??) 0x0000"/>
+         <F f="29" v="(??) 0x0000"/>
+         <F f="29" v="(??) 0x0000"/>
+         <F f="8" v="20260101"/>
+         <F f="16" v="--"/>
+         <F f="18" v="6"/>
+         <F f="16" v="--"/>
+         <F f="3" v="0000 0000 0000 0000"/>
+         <F f="18" v="10000"/>
+         <F f="16" v="--"/>
+         <F f="18" v="49"/>
+         <F f="16" v="--"/>
+         <F f="18" v="0"/>
+         <F f="16" v="--"/>
+         <F f="18" v="0"/>
+         <F f="16" v="--"/>
+         <F f="0" v="1"/>
+         <F f="0" v="2"/>
+         <F f="0" v="0"/>
+      </Formats>
+      <Bytes>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>78</B>
+         <B>97</B>
+         <B>188</B>
+         <B>0</B>
+         <B>66</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>46</B>
+         <B>47</B>
+         <B>109</B>
+         <B>97</B>
+         <B>105</B>
+         <B>110</B>
+         <B>47</B>
+         <B>109</B>
+         <B>97</B>
+         <B>105</B>
+         <B>110</B>
+         <B>46</B>
+         <B>99</B>
+         <B>112</B>
+         <B>112</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>5</B>
+         <B>37</B>
+         <B>53</B>
+         <B>1</B>
+         <B>6</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>16</B>
+         <B>39</B>
+         <B>0</B>
+         <B>0</B>
+         <B>49</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+         <B>1</B>
+         <B>0</B>
+         <B>2</B>
+         <B>0</B>
+         <B>0</B>
+         <B>0</B>
+      </Bytes>
+      <CellData>
+         <Cell idx="10">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>诊断码</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="12">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>行号</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="14">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(1-0)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="15">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(3-2)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="16">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(5-4)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="17">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(7-6)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="18">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(9-8)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="19">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(11-10)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="20">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(13-12)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="21">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(15-14)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="22">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(17-16)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="23">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(19-18)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="24">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>文件名(21-20)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="25">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>设备型号(保持)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="27">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>启动次数(保持)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="30">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>运行周期us</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="32">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>系统时间s</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="38">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>设置1(保持)</Name>
+            <Font used="false"/>
+         </Cell>
+         <Cell idx="39">
+            <Colors/>
+            <Compare compare1="0" compare2="0" conditional1="0" conditional2="0"/>
+            <Name>设置2(保持)</Name>
+            <Font used="false"/>
+         </Cell>
+      </CellData>
+      <Scales>
+         <Scale idx="1" x1="0" x2="65535" y1="0" y2="100" precision="1" enabled="0"/>
+         <Scale idx="2" x1="0" x2="65535" y1="0" y2="100" precision="1" enabled="0"/>
+         <Scale idx="3" x1="0" x2="65535" y1="0" y2="100" precision="1" enabled="0"/>
+         <Scale idx="4" x1="0" x2="65535" y1="0" y2="100" precision="1" enabled="0"/>
+      </Scales>
+      <ValueNames/>
+      <ChartSeries/>
+      <BinNames/>
+   </Data>
+</ModbusPoll>
