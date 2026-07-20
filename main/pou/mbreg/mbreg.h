@@ -3,7 +3,7 @@
  * @file        mbreg.h
  * @author      xls2mbreg.py
  * @version
- * @date        2026/03/30 09:10:41
+ * @date        2026/07/20 09:10:18
  * @brief       'mbreg.h' converted by the file 'D:\Project\espProject\esp32_xls2ModbusReg\mbreg.xlsm'
  * @license
  ******************************************************************************
@@ -25,7 +25,7 @@ extern "C" {
 #endif
 
 /* 生成时间 */
-#define MBREG_GEN_TIME "2026/03/30 09:10:41"
+#define MBREG_GEN_TIME "2026/07/20 09:10:18"
 
 /**
  * @struct mbreg_ldi_t

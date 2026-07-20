@@ -16,7 +16,7 @@
 - [VS Code](https://code.visualstudio.com/Download)
   1. `ESP-IDF`扩展插件(版本`1.11.1`)
   2. `Tasks Button`扩展插件(发布者`quzhen`)
-- [ESP-IDF 5.5.3](https://dl.espressif.cn/dl/esp-idf/)
+- [ESP-IDF 5.5.4](https://dl.espressif.cn/dl/esp-idf/)
 - [Python 3.11.9](https://www.python.org/ftp/python/3.11.9/python-3.11.9.exe)
 
 ---

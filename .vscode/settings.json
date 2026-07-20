@@ -13,7 +13,7 @@
     "idf.customExtraVars": {
         "IDF_TARGET": "esp32s3"
     },
-    "idf.pythonInstallPath": "d:\\Espressif5\\tools\\idf-python\\3.11.2\\python.exe",
-    "idf.espIdfPathWin": "d:\\Espressif5\\frameworks\\esp-idf-v5.5.3",
-    "idf.toolsPathWin": "d:\\Espressif5",
+    "idf.pythonInstallPath": "d:\\Espressif554\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.espIdfPathWin": "d:\\Espressif554\\frameworks\\esp-idf-v5.5.4",
+    "idf.toolsPathWin": "d:\\Espressif554",
 }

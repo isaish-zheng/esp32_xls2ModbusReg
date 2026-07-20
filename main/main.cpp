@@ -66,8 +66,7 @@ void control_task(void *pvParameters) {
         mbreg.sysdiag.line = __LINE__;
         /* 文件名 */
         memset(&mbreg.sysdiag.file_name_byte0, 0, 22);
-        strncpy((char *)&mbreg.sysdiag.file_name_byte0, __FILE__, 21);
-        
+        strncpy((char *)&mbreg.sysdiag + offsetof(typeof(mbreg.sysdiag), file_name_byte0), __FILE__, 21);
         /* 运行周期 */
         mbreg.sysstat.cycle_time_us = sys_cycle_timer.cycle_us(&sys_cycle_timer);
         /* 系统时间 */
